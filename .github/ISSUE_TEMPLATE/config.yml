@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bug 反馈
+    url: https://github.com/lemonicy/clashpost/templates/issue.md
+    about: 数据错误、文章内容错误
+  - name: 意见反馈
+    url: https://github.com/lemonicy/clashpost/templates/issue.md
+    about: 新功能建议、已有功能优化建议
+  - name: 其他问题
+    url: https://clashpost.com/faq
+    about: 请使用“常见问题解答”版块的联系方式联系作者
