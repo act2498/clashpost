@@ -1,4 +1,4 @@
----
+﻿---
 title: "部落冲突 coc 瓦基丽武神升级数据"
 navTitle: "瓦基丽武神"
 shownTitle: "瓦基丽武神"
@@ -77,12 +77,15 @@ const tableExtraInfo = [
 |   8  |    196   |  352.8  | 1800  |   155K  |     7     |     11     |    13     |
 |   9  |    208   |  374.4  | 2000  |   215K  |    11     |     12     |    14     |
 |  10  |    223   |  401.4  | 2400  |   240K  |    12     |     13     |    15     |
-|  11  |    238   |  428.4  | 2800  |   340K  |    15     |     14     |    16     |
+|  11  |    238   |  428.4  | 2600  |   340K  |    15     |     14     |    16     |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2024/09/09">
+        <TimelineRow>11 级瓦基丽武神的生命值减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2024/06/18">
         <TimelineRow>9 ~ 10 级瓦基丽武神的升级时间减少。</TimelineRow>
         <TimelineRow>9 ~ 10 级瓦基丽武神的升级费用降低。</TimelineRow>
