@@ -47,6 +47,7 @@ canonical: /upgrade/008a-Druid
 <UnitProperties>
     <UnitProperty pKey="治疗偏好" pValue="无" />
     <UnitProperty pKey="治疗类型" pValue="链式治疗" />
+    <UnitProperty pKey="目标数量上限" pValue="3" />
     <UnitProperty pKey="治疗的目标" pValue="地面和空中目标" />
     <UnitProperty pKey="占据人口" pValue="16" />
     <UnitProperty pKey="移动速度" pValue="3 格/秒" />
@@ -143,6 +144,9 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2024/09/09">
+        <TimelineRow>德鲁伊的最多可治疗的目标数量由 4 个减少到 3 个。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2024/06/18">
         <TimelineRow>14 本可解锁新兵种：德鲁伊。</TimelineRow>
     </TimelineItem>

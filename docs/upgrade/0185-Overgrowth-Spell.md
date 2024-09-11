@@ -1,4 +1,4 @@
----
+﻿---
 title: "部落冲突 coc 蔓生法术升级数据"
 navTitle: "蔓生法术"
 shownTitle: "蔓生法术"
@@ -30,7 +30,7 @@ canonical: /upgrade/0185-Overgrowth-Spell
 <SmallTitle>属性</SmallTitle>
 
 <UnitProperties>
-    <UnitProperty pKey="作用半径" pValue="8 格" />
+    <UnitProperty pKey="作用半径" pValue="6 格" />
     <UnitProperty pKey="作用类型" pValue="在范围内生成藤蔓" />
     <UnitProperty pKey="占用的法术空间" pValue="2" />
     <UnitProperty pKey="所需暗黑法术工厂等级" pValue="6" />
@@ -61,14 +61,18 @@ const tableExtraInfo = [
 | 等级 |法术<br>持续时间| 升级花费 | 升级时间 |所需<br>实验室等级|所需<br>大本等级|
 | ---- |      ---      |   ---   |  ----   |       ----      |      ----     |
 |   1  |     22 秒     |    \    |    \    |         1       |       12      |
-|   2  |     24 秒     |   125K  |   10    |        10       |       12      |
-|   3  |     26 秒     |   250K  |   12    |        12       |       14      |
-|   4  |     28 秒     |   350K  |   16    |        14       |       16      |
+|   2  |     23 秒     |   125K  |   10    |        10       |       12      |
+|   3  |     24 秒     |   250K  |   12    |        12       |       14      |
+|   4  |     25 秒     |   350K  |   16    |        14       |       16      |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2024/09/09">
+        <TimelineRow>2 - 4 级蔓生法术的持续时间减少。</TimelineRow>
+        <TimelineRow>蔓生法术的作用半径减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2024/02/27">
         <TimelineRow>新法术：蔓生法术，12 本可解锁，共推出 4 个等级。</TimelineRow>
     </TimelineItem>

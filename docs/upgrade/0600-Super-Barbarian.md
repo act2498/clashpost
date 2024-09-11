@@ -1,4 +1,4 @@
----
+﻿---
 title: "部落冲突 coc 超级野蛮人（超蛮、超级黄毛）升级数据"
 navTitle: "超级野蛮人"
 shownTitle: "超级野蛮人（超蛮、超级黄毛）"
@@ -54,12 +54,15 @@ canonical: /upgrade/0600-Super-Barbarian
 |   9  |    200   |   160   |         340       |       272        |  1100  |     12    |
 |  10  |    220   |   176   |         374       |       299.2      |  1200  |     14    |
 |  11  |    240   |   192   |         408       |       326.4      |  1300  |     15    |
-|  12  |    260   |   208   |         442       |       353.6      |  1350  |     16    |
+|  12  |    250   |   200   |         425       |       340        |  1350  |     16    |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2024/09/09">
+        <TimelineRow>12 级超级野蛮人的每秒伤害减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2024/02/27">
         <TimelineRow>10 ~ 12 级超级野蛮人的生命值减少。</TimelineRow>
     </TimelineItem>
