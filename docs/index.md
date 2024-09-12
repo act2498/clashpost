@@ -102,11 +102,11 @@ onBeforeUnmount(() => {
     <div class="homepage-recommend-item">
         <SmallTitle>最新动态</SmallTitle>
         <ul>
+            <li>九月更新的数据已于 9/12 上线。</li>
             <li>网站的搜索功能已与 8/7 上线。</li>
             <li>旧版网站的所有文章已于 6/29 迁移完毕。</li>
             <li>六月更新数据已于 6/18 上线。</li>
             <li>六月平衡性调整的数据已于 6/4 上线。</li>
-            <li>四月更新的数据已于 4/17 上线。</li>
         </ul>
     </div>
 </div>
